@@ -37,5 +37,3 @@ Student added successfully.
 ## Files
 - arrayeg.java
 
-## Author
-- Your Name Here
